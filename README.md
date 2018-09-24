@@ -9,14 +9,15 @@ This work predicts insurance charges for customers based on their several physic
 Exploratory Data analysis (EDA) is performed for data overview, visualization and study of statistical details.
 Linear regression, ADABoost Regressor and Random Forest Regressor are implemented using Python's Scikit-learn package. 
 All three algorithms are appied on both train and test data.
-Oridnary Least Square technique is applied from Statsmodel for prediction and to generate full statistical summary
+Ordinary Least Square(OLS) from Python's Statsmodel is used for prediction and to generate full statistical summary
 including p-values, correlation coefficients and F-statistics for the model.
 Two approaches are used for creating train and test data from the dataset.
 1. Cross-vaidation - Using entire dataset and perform cross-validation.
 2. Train-test splitting - Splitting the dataset, 80% for training and rest for testing.
-****************************************************************************
+Performance metrics - R-squared values for each model on both training and testing data.
+****************************************************************************************
 About dataset-
-****************************************************************************
+****************************************************************************************
 Source - Kaggle (Medical Insurance Personal dataset)
 Dependent variable - charges 
 Independent variables -
