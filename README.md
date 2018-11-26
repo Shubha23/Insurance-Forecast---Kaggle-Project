@@ -1,4 +1,5 @@
 # Exploratory Data Analysis and application of Regression techniques.
+**NOTE - Please see the Jupyter notebook(.ipynb file) for complete explanation and Exploratory Data Analysis (EDA)**
 ***************************************************************************
 Project goal - Prediction of insurance charges for customers
 ****************************************************************************
